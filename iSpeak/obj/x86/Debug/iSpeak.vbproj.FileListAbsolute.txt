@@ -1,0 +1,26 @@
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\bin\Debug\iSpeak.exe
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\bin\Debug\iSpeak.pdb
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\bin\Debug\iSpeak.xml
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\MainWindow.baml
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\MainWindow.g.vb
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\Application.g.vb
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak_MarkupCompile.cache
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak.g.resources
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak.Resources.resources
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak.vbproj.GenerateResource.Cache
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak.exe
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak.xml
+C:\Users\aravi\AppData\Local\Temporary Projects\iSpeak\obj\x86\Debug\iSpeak.pdb
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak.exe
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak.xml
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak.pdb
+D:\NewVB2010\iSpeak\iSpeak\bin\Debug\iSpeak.exe
+D:\NewVB2010\iSpeak\iSpeak\bin\Debug\iSpeak.pdb
+D:\NewVB2010\iSpeak\iSpeak\bin\Debug\iSpeak.xml
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\MainWindow.baml
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\MainWindow.g.vb
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\Application.g.vb
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak_MarkupCompile.cache
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak.g.resources
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak.Resources.resources
+D:\NewVB2010\iSpeak\iSpeak\obj\x86\Debug\iSpeak.vbproj.GenerateResource.Cache

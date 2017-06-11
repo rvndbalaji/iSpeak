@@ -1,0 +1,9 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="iSpeak" Height="350" Width="525" Icon="/iSpeak;component/Images/Chat-toolbar.ico" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="iSpeak" Height="40" HorizontalAlignment="Left" Margin="156,219,0,0" Name="Button1" VerticalAlignment="Top" Width="180" Cursor="Hand" />
+        <TextBox Height="127" HorizontalAlignment="Left" Margin="50,72,0,0" Name="text" VerticalAlignment="Top" Width="397" Text="This is a sample text" AcceptsReturn="True" FontSize="16" FontWeight="Normal" FontStyle="Normal" TextWrapping="Wrap" />
+    </Grid>
+</Window>
